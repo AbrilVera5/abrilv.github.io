@@ -1,0 +1,51 @@
+body {
+    background: url("img/fondo3.jpg");
+}
+
+#contenedor {
+    width: 800px;
+    background-color: #FFF5F3;
+    margin: 0 auto;
+    padding: 30px;
+    height: 100%;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+#header {
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+#header h1 {
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+#header ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+#header ul li a {
+    text-decoration: none;
+    background-color: #FFA696;
+    padding: 5px;
+    color: #ffffff;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+#header ul li a:hover {
+    background-color: #FF917E;
+    text-decoration: underline;
+}
+
+#video {
+    padding: 10px 0;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+#mat{
+    padding: 10px 0;
+    text-align: left;
+    font-family: 'Shadows Into Light Two', cursive;
+}
